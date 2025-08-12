@@ -19,4 +19,6 @@ In the above example, two string variables are initialized, named `s1` and `s2`.
 
 Store the string `I am learning to code with Coddy!` in a variable named `coddy`.
 
-*Be sure to store the **exact** string value with correct casing.*
+*Be sure to store the **exact** string value with correct casing.*  
+
+[Question](q.py) [solution](solution.py)

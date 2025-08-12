@@ -1,5 +1,5 @@
 # Type your code below
-var = 5
+flag = False
 
 # Don't change the line below
-print(f'var = {var}')
+print(f'flag = {flag}')
