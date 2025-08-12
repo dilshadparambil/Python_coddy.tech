@@ -1,6 +1,6 @@
 # Fundamentels
 
-Welcome to Fundamentels of python
+Welcome to Fundamentels of Python
 
 ---
 
