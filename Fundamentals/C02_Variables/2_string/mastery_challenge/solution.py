@@ -1,5 +1,5 @@
 # Type your code below
-var = 5
+favorite_language = "Python is awesome!"
 
 # Don't change the line below
-print(f'var = {var}')
+print(f'favorite_language = "{favorite_language}"')
