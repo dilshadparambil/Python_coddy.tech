@@ -33,4 +33,6 @@ var3 = var1 != var2
 
 Write a script that initializes 2 variables `n1` and `n2` with the values `8` and `9` (accordingly).
 
-After that initialize another variable `n3` that will hold whether `n1` is bigger than `n2`.
+After that initialize another variable `n3` that will hold whether `n1` is bigger than `n2`.  
+
+[Question](q.py) [solution](solution.py)

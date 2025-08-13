@@ -25,4 +25,6 @@ c = a + b # c holds 8
 
 Write a code that initializes two variables, `a` and `b`, with the values `5.2` and `2.6` (respectively).
 
-After that, initialize another variable `c` that will hold the result of `a / b`.
+After that, initialize another variable `c` that will hold the result of `a / b`.  
+
+[Question](q.py) [solution](solution.py)

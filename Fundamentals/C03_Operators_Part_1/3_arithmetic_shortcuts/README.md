@@ -40,4 +40,6 @@ Your task is to add the following operations, **in this order**:
 2. Multiply `count` by `2`
 3. Subtract `1` from `count`
 
-Use the arithmetic shortcuts to do so!
+Use the arithmetic shortcuts to do so!  
+
+[Question](q.py) [solution](solution.py)

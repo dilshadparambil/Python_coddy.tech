@@ -35,4 +35,6 @@ After that, initialize the following variables:
 * `e` that will hold the result of `b` modulo `3`
 * `f` that will hold the result of `c` modulo `10`
 
-Check out the result and see how different dividends and divisors affect the result.
+Check out the result and see how different dividends and divisors affect the result.  
+
+[Question](q.py) [solution](solution.py)
