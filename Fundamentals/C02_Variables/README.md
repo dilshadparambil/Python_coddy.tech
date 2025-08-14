@@ -16,7 +16,7 @@ Welcome to Variables
 | 3    | Boolean - Mastery Challenge    | [Goto](3_boolean/mastery_challenge/README.md)     |
 | 4    | Naming_Conventions             | [Goto](4_naming_conventions/README.md)            |
 | 5    | Empty_Variables                | [Goto](5_empty_variables/README.md)               |
-| 6    | Recap                          | [Goto](6_recap/README.md)                         |
+| 6    | Recap - Initialize Variables   | [Goto](6_recap/README.md)                         |
 
 
 ---
