@@ -1,3 +1,4 @@
+# Replace the values with booleans
 b1 = True
 b2 = True
 b3 = False

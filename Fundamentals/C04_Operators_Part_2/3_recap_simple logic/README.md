@@ -1,11 +1,13 @@
-# Arithmetic Operators Mastery Challenge
+# Recap - Simple Logic.  
+
+Let's practice some more logical operations!
 
 ## Challenge
 
 **Beginner**
 
-Write a code that initializes two variables, `x` and `y`, with the values `12.5` and `3.5` (respectively).
+You are given a code, replace the question marks of the variables `b1`, `b2`  and `b3` so that `b4` will hold `True`.  
 
-After that, initialize another variable `z` that will hold the result of `x * y`.
+*Refer to the given code to understand what `b4` holds.*  
 
 [Question](q.py) [solution](solution.py)

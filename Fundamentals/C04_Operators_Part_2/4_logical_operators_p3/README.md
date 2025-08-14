@@ -61,3 +61,5 @@ Your program should:
 4. Convert the license and insurance inputs to boolean values
 5. Check all three conditions and store the result in a variable named `result`
 6. Print the final result (should be `True` or `False`)
+
+[Question](q.py) [solution](solution.py)

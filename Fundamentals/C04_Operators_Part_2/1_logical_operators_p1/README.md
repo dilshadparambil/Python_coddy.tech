@@ -59,4 +59,6 @@ Fill in the blanks with the correct values:
 
 1. Fill in the age variable with 20
 2. Fill in the has_license variable with True
-3. Fill in the minimum age requirement in the comparison
+3. Fill in the minimum age requirement in the comparison  
+
+[Question](q.py) [solution](solution.py)

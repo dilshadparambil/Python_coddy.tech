@@ -53,4 +53,6 @@ Write the following logical expressions to determine if:
 
 * `can_sell_regular_pet`: Customer needs EITHER a license OR experience, AND must have space
 * `can_sell_exotic_pet`: Customer needs BOTH a license AND experience, AND must have space
-* `cannot_sell_any_pet`: Customer has NO license AND NO experience, OR has NO space
+* `cannot_sell_any_pet`: Customer has NO license AND NO experience, OR has NO space.  
+
+[Question](q.py) [solution](solution.py)

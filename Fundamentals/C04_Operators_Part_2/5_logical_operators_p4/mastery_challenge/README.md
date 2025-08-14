@@ -1,11 +1,21 @@
-# Arithmetic Operators Mastery Challenge
+# Logical Operators Part 4 Mastery Challenge
 
 ## Challenge
 
-**Beginner**
+**Easy**
 
-Write a code that initializes two variables, `x` and `y`, with the values `12.5` and `3.5` (respectively).
+You're helping a transportation company create a system to determine if a person can drive certain vehicles.
 
-After that, initialize another variable `z` that will hold the result of `x * y`.
+initialize the following variables:
+
+* `has_license` with the value `True`
+* `has_experience` with the value `False`
+* `has_clean_record` with the value `True`
+
+Write the following logical expressions to determine if:
+
+* `can_drive_car`: Person needs a license AND a clean record
+* `can_drive_truck`: Person needs a license AND experience AND a clean record
+* `cannot_drive_any`: Person has NO license OR NO clean record
 
 [Question](q.py) [solution](solution.py)

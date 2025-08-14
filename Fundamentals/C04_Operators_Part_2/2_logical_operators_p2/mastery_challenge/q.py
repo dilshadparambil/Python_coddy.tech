@@ -1,7 +1,10 @@
-b1 = ?
-b2 = ?
-b3 = ?
+# Replace the values with booleans
+a = ?
+b = ?
+c = ?
 
-# Don't change the lines below
-b4 = b1 and b2 and (not b3)
-print(f"b4 = {b4}")
+# This line checks if (a or b) and not c is True
+result = (a or b) and not c
+
+# Don't change the line below
+print(f"result = {result}")

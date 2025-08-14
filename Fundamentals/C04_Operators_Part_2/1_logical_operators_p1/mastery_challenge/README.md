@@ -1,11 +1,11 @@
-# Arithmetic Operators Mastery Challenge
+# Logical Operators Part 1 Mastery Challenge
 
 ## Challenge
 
 **Beginner**
 
-Write a code that initializes two variables, `x` and `y`, with the values `12.5` and `3.5` (respectively).
+You are given a code. Assign values to `x1` and `x2` such that `x3` evaluates to False.
 
-After that, initialize another variable `z` that will hold the result of `x * y`.
+`x1` and `x2` should be assigned Boolean values (`True` or `False`) or Boolean expressions.
 
 [Question](q.py) [solution](solution.py)
