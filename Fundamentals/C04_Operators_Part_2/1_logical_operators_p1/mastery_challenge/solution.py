@@ -1,10 +1,7 @@
-# Replace the values with booleans
-a = True
-b = False
-c = False
+# Type your code below
+x1 = False
+x2 = True
 
-# This line checks if (a or b) and not c is True
-result = (a or b) and not c
-
-# Don't change the line below
-print(f"result = {result}")
+# Don't change the lines below
+x3 = x1 and x2
+print(f"x3 = {x3}")

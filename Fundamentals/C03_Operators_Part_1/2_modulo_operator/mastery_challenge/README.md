@@ -16,3 +16,5 @@ Use the `//` operator for integer division. For example: `7 // 2` equals 3 (not 
 
 
 Check out the result and see how different dividends and divisors affect the result.
+
+[Question](q.py) [solution](solution.py)
