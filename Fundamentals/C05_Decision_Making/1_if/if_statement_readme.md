@@ -35,4 +35,6 @@ The variables `a` and `b` have missing values, fill them so that the code inside
 
 At the end of the program, the value of `c` should be 3.
 
-**Bonus**: try to find more than one solution!
+**Bonus**: try to find more than one solution!  
+
+[Question](q.py) [solution](solution.py)
