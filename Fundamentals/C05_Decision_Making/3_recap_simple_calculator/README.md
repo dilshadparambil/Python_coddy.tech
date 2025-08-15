@@ -15,4 +15,6 @@ Your task is to set the variable `result` based on the conditions:
 * if `op` is `'+'`, set `result` with `n1 + n2`.
 * if `op` is `'-'`, set `result` with `n1 - n2`.
 * if `op` is `'/'`, set `result` with `n1 / n2`.
-* if `op` is `'*'`, set `result` with `n1 * n2`.
+* if `op` is `'*'`, set `result` with `n1 * n2`.  
+
+[Question](q.py) [solution](solution.py)

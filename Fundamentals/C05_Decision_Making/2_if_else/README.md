@@ -59,4 +59,6 @@ Your task is to initialize variable `status` based on the conditions:
 * `"Gale"` if `wind` is between `32` and `63` (including 32 and 63)
 * `"Storm"` otherwise
 
-*Check the test cases to see all the inputs and the expected outputs*
+*Check the test cases to see all the inputs and the expected outputs*.  
+
+[Question](q.py) [solution](solution.py)

@@ -46,4 +46,6 @@ Your program should:
    * If age is 18 or older, set `"You can watch any movie"`.
    * If age is under 18: 
       * If with_parent is True, set `"You can watch PG-13 movies"`.
-      * If with_parent is False, set `"You can only watch G-rated movies"`.
+      * If with_parent is False, set `"You can only watch G-rated movies"`.  
+
+[Question](q.py) [solution](solution.py)
