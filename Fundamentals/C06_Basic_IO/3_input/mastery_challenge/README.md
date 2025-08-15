@@ -1,13 +1,18 @@
-# If Statement Mastery Challenge
+# Input Mastery Challenge
 
 ## Challenge
 
 **Beginner**
 
-The variables `a` and `b` have missing values. Fill them so that the code inside the if statement will be executed! (make sure the `if` condition is true)
+Create a program that receives that user's name and age, then calculates and prints how old they will be in 10 years.
 
-At the end of the program, the value of `c` should be 3.
+The output should be in the format: "In 10 years, [name] will be [age] years old."
 
-**Bonus**: try to find more than one solution!  
+You will need to:
+
+Use `input()` to get the user's name and age.
+Store the inputs in variables.
+Convert the age to an integer and add 10 to it.
+Print the result using an f-string. 
 
 [Question](q.py) [solution](solution.py)

@@ -30,4 +30,6 @@ You are given a code that stores a random string as input to a variable named `r
 
 Print to the console `"The input is: "` and the random string that is inside the variable `rnd`.
 
-*Check the test cases for examples!*
+*Check the test cases for examples!*.  
+
+[Question](q.py) [solution](solution.py)

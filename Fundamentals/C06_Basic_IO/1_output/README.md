@@ -20,4 +20,6 @@ The above example prints `"Hello"` to screen.
 
 **Beginner**
 
-Write a program that prints `"I love Python programming"`
+Write a program that prints `"I love Python programming"`.  
+
+[Question](q.py) [solution](solution.py)

@@ -24,4 +24,6 @@ You will need to:
 
 1. Use `input()` to get input from the user.
 2. Store the input in a variable.
-3. Print `Hello,` and the stored variable in the end (add a space after the comma).
+3. Print `Hello,` and the stored variable in the end (add a space after the comma).  
+
+[Question](q.py) [solution](solution.py)

@@ -47,4 +47,6 @@ var2 = input()
 
 Every test case contains two inputs.
 
-Store the inputs in two variables, cast them to **float** and print the **multiplication** of the two.
+Store the inputs in two variables, cast them to **float** and print the **multiplication** of the two.  
+
+[Question](q.py) [solution](solution.py)
