@@ -60,3 +60,5 @@ Hello Coddy: 4
 ...
 Hello Coddy: 27
 ```
+
+[Question](q.py) [solution](solution.py)
