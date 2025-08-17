@@ -15,6 +15,7 @@ Welcome to Fundamentels of Python
 | 5       | Decision Making         | [Goto](C05_Decision_Making/README.md)         |
 | 6       | Basic IO                | [Goto](C06_Basic_IO/README.md)                |
 | 7       | Bill Split Calculator   | [Goto](C07_Bill_Split_Calculator/README.md)   |
+| 8       | Loops                   | [Goto](C08_Loops/README.md)                   |
 
 
 ---
