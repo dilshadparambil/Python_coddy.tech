@@ -25,5 +25,4 @@ Because:
 12 * 1 = 12
 ```
 
-
 [Question](q.py) [solution](solution.py)

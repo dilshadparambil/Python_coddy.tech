@@ -20,6 +20,8 @@ Welcome to Loops
 | 6    | Range Function                     | [Goto](6_range_function/README.md)                    |
 | 6    | Range Function - Mastery Challenge | [Goto](6_range_function/mastery_challenge/README.md)  |
 | 7    | Nested Loop                        | [Goto](7_nested_loop/README.md)                       |
+| 7    | Nested Loop - Mastery Challenge    | [Goto](7_nested_loop/mastery_challenge/README.md)     |
+| 8    | Recap Dynamic Input                | [Goto](8_recap_dynamic_input/README.md)               |
 
 
 
