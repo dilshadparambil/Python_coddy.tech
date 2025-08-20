@@ -68,3 +68,5 @@ Example: if input is 3 rows and 4 columns, output should be:
 ****
 ****
 ```
+
+[Question](q.py) [solution](solution.py)

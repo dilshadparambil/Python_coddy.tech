@@ -67,3 +67,5 @@ Write a for loop that prints numbers using the `range()` function. Your program 
 * The input reading code is already provided
 * Replace the comment with your for loop
 * Use `range(start, end, step)` in your loop
+
+[Question](q.py) [solution](solution.py)
