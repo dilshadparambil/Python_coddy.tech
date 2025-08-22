@@ -17,6 +17,7 @@ Welcome to Fundamentels of Python
 | 7       | Bill Split Calculator   | [Goto](C07_Bill_Split_Calculator/README.md)   |
 | 8       | Loops                   | [Goto](C08_Loops/README.md)                   |
 | 9       | Functions               | [Goto](C09_Functions/README.md)               |
+| 10      | FizzBuzz With A Twist   | [Goto](C10_FizzBuzz_With_A_Twist/README.md)   |
 
 
 ---
