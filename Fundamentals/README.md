@@ -18,6 +18,7 @@ Welcome to Fundamentels of Python
 | 8       | Loops                   | [Goto](C08_Loops/README.md)                   |
 | 9       | Functions               | [Goto](C09_Functions/README.md)               |
 | 10      | FizzBuzz With A Twist   | [Goto](C10_FizzBuzz_With_A_Twist/README.md)   |
+| 11      | Lists Basics            | [Goto](C11_Lists_Basics/README.md)            |
 
 
 ---
