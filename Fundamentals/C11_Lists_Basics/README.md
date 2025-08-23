@@ -6,9 +6,14 @@ Welcome to Lists Basics
 
 ## 📅 Table of Contents
 
-| S.no | Project Title        | Link                                    |
-|------|----------------------|-----------------------------------------|
-| 1    | Declaring A List     | [Goto](1_declaring_a_list/README.md)    |
+| S.no | Project Title                               | Link                                                          |
+|------|-------------------------------------------- |---------------------------------------------------------------|
+| 1    | Declaring A List                            | [Goto](1_declaring_a_list/README.md)                          |
+| 2    | Accessing List Elements                     | [Goto](2_accessing_list_elements/README.md)                   |
+| 2    | Accessing List Elements - Mastery Challenge | [Goto](2_accessing_list_elements/mastery_challenge/README.md) |
+| 3    | Modifying Lists                             | [Goto](3_modifying_lists/README.md)                           |
+| 3    | Modifying Lists - Mastery Challenge         | [Goto](3_modifying_lists/mastery_challenge/README.md)         |
+| 4    | List Methods                                | [Goto](4_list_methods/README.md)                              |
 
 
 
