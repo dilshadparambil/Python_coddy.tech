@@ -14,7 +14,10 @@ Welcome to Lists Basics
 | 3    | Modifying Lists                             | [Goto](3_modifying_lists/README.md)                           |
 | 3    | Modifying Lists - Mastery Challenge         | [Goto](3_modifying_lists/mastery_challenge/README.md)         |
 | 4    | List Methods                                | [Goto](4_list_methods/README.md)                              |
-
+| 4    | List Methods - Mastery Challenge            | [Goto](4_list_methods/mastery_challenge/README.md)            |
+| 5    | Recap - Product List                        | [Goto](5_recap_product_list/README.md)                        |
+| 6    | Recap - Reversed List                       | [Goto](6_recap_reversed_list/README.md)                       |
+| 7    | Tuple                                       | [Goto](7_tuple/README.md)                                     |
 
 
 
