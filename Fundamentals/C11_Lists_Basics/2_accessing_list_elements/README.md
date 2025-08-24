@@ -37,3 +37,5 @@ for i in range(len(my_list)):
 ```
 
 This way, `i` will iterate from 0 to `len(my_list)` (not including) which is exactly all of the list indices.
+
+[Question](q.py) [solution](solution.py)
