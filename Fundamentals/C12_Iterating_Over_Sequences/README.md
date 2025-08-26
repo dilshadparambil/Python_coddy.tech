@@ -15,6 +15,7 @@ Welcome to Iterating Over Sequences
 | 3    | Iterating Over Strings Part 1                      | [Goto](3_iterating_over_strings_p_1/README.md)                    |
 | 3    | Iterating Over Strings Part 1 - Mastery Challenge  | [Goto](3_iterating_over_strings_p_1/mastery_challenge/README.md)  |
 | 4    | Iterating Over Strings Part 2                      | [Goto](4_iterating_over_strings_p_2/README.md)                    |
+| 4    | Iterating Over Strings Part 2 - Mastery Challenge  | [Goto](4_iterating_over_strings_p_2/mastery_challenge/README.md)  |
 
 
 
