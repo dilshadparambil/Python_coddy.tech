@@ -21,6 +21,7 @@ Welcome to Fundamentels of Python
 | 11      | Lists Basics                | [Goto](C11_Lists_Basics/README.md)                |
 | 12      | Iterating Over Sequences    | [Goto](C12_Iterating_Over_Sequences/README.md)    |
 | 13      | Lists Advanced              | [Goto](C13_Lists_Advanced/README.md)              |
+| 14      | Daily Expense Tracker       | [Goto](C14_Daily_Expense_Tracker/README.md)       |
 
 
 ---
