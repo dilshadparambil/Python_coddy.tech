@@ -1,6 +1,6 @@
-# Daily Expense Tracker
+# Final Challenges
 
-Welcome to Daily Expense Tracker
+Welcome to Final Challenges
 
 ---
 
@@ -8,15 +8,9 @@ Welcome to Daily Expense Tracker
 
 | S.no | Project Title          | Link                                      |
 |------|------------------------|-------------------------------------------|
-| 1    | Project Overview       | [Goto](1_project_overview/README.md)      |
-| 2    | Exit The Program       | [Goto](2_exit_the_program/README.md)      |
-| 3    | Add Expense            | [Goto](3_add_expense/README.md)           |
-| 4    | View All Expenses      | [Goto](4_view_all_expenses/README.md)     |
-| 5    | Total And Average      | [Goto](5_total_and_average/README.md)     |
-| 6    | Clear All              | [Goto](6_clear_all/README.md)             |
-| 7    | Handling Errors        | [Goto](7_handling_errors/README.md)       |
-
-
+| 1    | Flat Asterisk Pyramid  | [Goto](1_flat_asterisk_pyramid/README.md) |
+| 2    | Pattern Finder         | [Goto](2_pattern_finder/README.md)        |
+| 3    | What To Buy            | [Goto](3_what_to_buy/README.md)           |
 
 
 ---
