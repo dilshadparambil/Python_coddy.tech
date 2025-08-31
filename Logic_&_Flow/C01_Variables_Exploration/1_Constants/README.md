@@ -12,11 +12,6 @@ MAX_USERS = 100
 
 When you see variables named this way in Python code, it's a signal that these values should not be altered. This convention helps make the code more readable and maintainable. It's important to note that this is just a naming convention; the Python interpreter itself does not prevent you from changing the value of these variables.
 
-## Quiz
-
-3 Questions
-
-Done
 
 ## Challenge
 

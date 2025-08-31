@@ -26,12 +26,6 @@ print(b)  # Output: 10
 
 In the Pythonic way, the values of `b` and `a` are simultaneously assigned to `a` and `b`, respectively. This approach is more readable and doesn't require any additional variables.
 
-## Quiz
-
-1 Question
-
-Done
-
 ## Challenge
 
 **Easy**
