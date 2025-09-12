@@ -13,6 +13,7 @@ Welcome to Logic And Flow of Python
 | 3       | Dictionaries Part 2         | [Goto](C03/README.md)     |
 | 4       | Contact Book Application    | [Goto](C04/README.md)     |
 | 5       | Advanced Decision Making    | [Goto](C05/README.md)     |
+| 6       | Sets Part 1                 | [Goto](C06/README.md)     |
 
 
 
