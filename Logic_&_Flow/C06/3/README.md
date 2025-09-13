@@ -46,3 +46,6 @@ Write a program that performs the following tasks:
    * The set after using `discard()`.
    * The value of `popped_element`.
    * The set after using `clear()`.
+
+
+[Question](q.py) [solution](solution.py)

@@ -30,3 +30,6 @@ Example Output:
 ```
 
 Use the properties of sets to simplify your solution while keeping the order intact!
+
+
+[Question](q.py) [solution](solution.py)
