@@ -11,10 +11,10 @@ Welcome to Student Records Manager
 | 1    | Project Overview                           | [Goto](1/README.md)                       |
 | 2    | Add Student                                | [Goto](2/README.md)                       |
 | 3    | Add Grade                                  | [Goto](3/README.md)                       |
-| 4    |                                            | [Goto](4/README.md)                       |
-| 5    |                                            | [Goto](5/README.md)                       |
-| 6    |                                            | [Goto](6//README.md)                      |
-| 7    |                                            | [Goto](7/README.md)                       |
+| 4    | Is Enrolled                                | [Goto](4/README.md)                       |
+| 5    | Average Grade                              | [Goto](5/README.md)                       |
+| 6    | List by Course                             | [Goto](6//README.md)                      |
+| 7    | Top Students                               | [Goto](7/README.md)                       |
 
 
 
