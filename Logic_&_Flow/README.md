@@ -14,6 +14,9 @@ Welcome to Logic And Flow of Python
 | 4       | Contact Book Application    | [Goto](C04/README.md)     |
 | 5       | Advanced Decision Making    | [Goto](C05/README.md)     |
 | 6       | Sets Part 1                 | [Goto](C06/README.md)     |
+| 7       | Sets Part 2                 | [Goto](C07/README.md)     |
+| 8       | Student Records Manager     | [Goto](C08/README.md)     |
+| 9       | Advanced Data Aggregation   | [Goto](C09/README.md)     |
 
 
 
