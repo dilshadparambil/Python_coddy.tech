@@ -14,6 +14,7 @@ Welcome to Advanced Data Aggregation
 | 2    | Finding Minimum and Maximum - Mastery Challenge    | [Goto](2/mastery_challenge/README.md)     |
 | 3    | Sorting Data Efficiently                           | [Goto](3/README.md)                       |
 | 3    | Sorting Data Efficiently - Mastery Challenge       | [Goto](3/mastery_challenge/README.md)     |
+| 4    | Recap - Dictionary Sorter                          | [Goto](4/README.md)                       |
 
 
 
