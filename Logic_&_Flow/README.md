@@ -17,6 +17,7 @@ Welcome to Logic And Flow of Python
 | 7       | Sets Part 2                 | [Goto](C07/README.md)     |
 | 8       | Student Records Manager     | [Goto](C08/README.md)     |
 | 9       | Advanced Data Aggregation   | [Goto](C09/README.md)     |
+| 10      | Basic List Comprehensions   | [Goto](C10/README.md)     |
 
 
 
