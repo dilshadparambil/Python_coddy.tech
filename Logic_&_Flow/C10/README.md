@@ -12,7 +12,8 @@ Welcome to Basic List Comprehensions
 | 2    | Creating Simple Lists                              | [Goto](2/README.md)                       |
 | 3    |                                                    | [Goto](3/README.md)                       |
 | 4    |                                                    | [Goto](4/README.md)                       |
+| 5    |                                                    | [Goto](5/README.md)                       |
+| 6    |                                                    | [Goto](6/README.md)                       |
 
-| 1    |                                                    | [Goto](1/mastery_challenge/README.md)     |
 ---
 
