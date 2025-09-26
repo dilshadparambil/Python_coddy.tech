@@ -9,7 +9,7 @@ Welcome to Basic List Comprehensions
 | S.no | Project Title                                      | Link                                      |
 |------|----------------------------------------------------|-------------------------------------------|
 | 1    | The Syntax                                         | [Goto](1/README.md)                       |
-| 2    |                                                    | [Goto](2/README.md)                       |
+| 2    | Creating Simple Lists                              | [Goto](2/README.md)                       |
 | 3    |                                                    | [Goto](3/README.md)                       |
 | 4    |                                                    | [Goto](4/README.md)                       |
 
