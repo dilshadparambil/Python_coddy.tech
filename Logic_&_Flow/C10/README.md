@@ -13,7 +13,7 @@ Welcome to Basic List Comprehensions
 | 3    | Adding Conditions                                  | [Goto](3/README.md)                       |
 | 4    | Using Data Aggregation                             | [Goto](4/README.md)                       |
 | 5    | House Of Lists                                     | [Goto](5/README.md)                       |
-| 6    |                                                    | [Goto](6/README.md)                       |
+| 6    | Recap - Elements Of Freedom                        | [Goto](6/README.md)                       |
 
 ---
 
