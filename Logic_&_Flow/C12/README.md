@@ -1,6 +1,6 @@
-# 
+# Basic Error Handling
 
-Welcome to 
+Welcome to Basic Error Handling
 
 ---
 

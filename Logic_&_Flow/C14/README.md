@@ -1,6 +1,6 @@
-# 
+# Higher-Order Functions
 
-Welcome to 
+Welcome to Higher-Order Functions
 
 ---
 

@@ -1,6 +1,6 @@
-# 
+# Advanced Functions
 
-Welcome to 
+Welcome to Advanced Functions
 
 ---
 
@@ -8,12 +8,19 @@ Welcome to
 
 | S.no | Project Title                                      | Link                                      |
 |------|----------------------------------------------------|-------------------------------------------|
-| 1    |                                                    | [Goto](1/README.md)                       |
+| 1    | Returning Multiple Values                          | [Goto](1/README.md)                       |
+| 1    | Returning Multiple Values - Mastery Challenge      | [Goto](1/mastery_challenge/README.md)     |
 | 2    |                                                    | [Goto](2/README.md)                       |
+| 2    |                                                    | [Goto](2/mastery_challenge/README.md)     |
 | 3    |                                                    | [Goto](3/README.md)                       |
 | 4    |                                                    | [Goto](4/README.md)                       |
+| 5    |                                                    | [Goto](5/README.md)                       |
+| 5    |                                                    | [Goto](5/mastery_challenge/README.md)     |
+| 6    |                                                    | [Goto](6/README.md)                       |
+| 6    |                                                    | [Goto](6/mastery_challenge/README.md)     |
+| 7    |                                                    | [Goto](7/README.md)                       |
 
 
-| 1    |                                                    | [Goto](1/mastery_challenge/README.md)     |
+
 ---
 

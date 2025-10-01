@@ -1,6 +1,6 @@
-# 
+# Inventory Management System
 
-Welcome to 
+Welcome to Inventory Management System
 
 ---
 
