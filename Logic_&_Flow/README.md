@@ -18,6 +18,7 @@ Welcome to Logic And Flow of Python
 | 8       | Student Records Manager     | [Goto](C08/README.md)     |
 | 9       | Advanced Data Aggregation   | [Goto](C09/README.md)     |
 | 10      | Basic List Comprehensions   | [Goto](C10/README.md)     |
+| 11      | Advanced Functions          | [Goto](C11/README.md)     |
 
 
 
