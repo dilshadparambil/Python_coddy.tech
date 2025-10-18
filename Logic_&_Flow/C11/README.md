@@ -18,7 +18,7 @@ Welcome to Advanced Functions
 | 5    | Recursive Functions Part 1 - Mastery Challenge     | [Goto](5/mastery_challenge/README.md)     |
 | 6    | Recursive Functions Part 2                         | [Goto](6/README.md)                       |
 | 6    | Recursive Functions Part 2 - Mastery Challenge     | [Goto](6/mastery_challenge/README.md)     |
-| 7    |                                                    | [Goto](7/README.md)                       |
+| 7    | Recap - Sum Nested List                            | [Goto](7/README.md)                       |
 
 
 
