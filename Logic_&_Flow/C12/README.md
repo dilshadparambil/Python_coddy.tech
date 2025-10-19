@@ -8,12 +8,10 @@ Welcome to Basic Error Handling
 
 | S.no | Project Title                                      | Link                                      |
 |------|----------------------------------------------------|-------------------------------------------|
-| 1    |                                                    | [Goto](1/README.md)                       |
+| 1    | What is Error Handling?                            | [Goto](1/README.md)                       |
 | 2    |                                                    | [Goto](2/README.md)                       |
 | 3    |                                                    | [Goto](3/README.md)                       |
 | 4    |                                                    | [Goto](4/README.md)                       |
 
-
-| 1    |                                                    | [Goto](1/mastery_challenge/README.md)     |
 ---
 
