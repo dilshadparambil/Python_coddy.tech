@@ -20,6 +20,7 @@ Welcome to Logic And Flow of Python
 | 10      | Basic List Comprehensions   | [Goto](C10/README.md)     |
 | 11      | Advanced Functions          | [Goto](C11/README.md)     |
 | 12      | Basic Error Handling        | [Goto](C12/README.md)     |
+| 13      | Inventory Management System | [Goto](C13/README.md)     |
 
 
 
