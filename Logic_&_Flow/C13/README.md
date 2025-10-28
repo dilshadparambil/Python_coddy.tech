@@ -9,7 +9,7 @@ Welcome to Inventory Management System
 | S.no | Project Title                                      | Link                                      |
 |------|----------------------------------------------------|-------------------------------------------|
 | 1    | Project Overview                                   | [Goto](1/README.md)                       |
-| 2    |                                                    | [Goto](2/README.md)                       |
+| 2    | Add Item                                           | [Goto](2/README.md)                       |
 | 3    |                                                    | [Goto](3/README.md)                       |
 | 4    |                                                    | [Goto](4/README.md)                       |
 
